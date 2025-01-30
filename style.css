@@ -1,0 +1,12 @@
+body{
+    background-color: cornflowerblue;
+}
+.button{
+    background-color: rgb(9, 73, 0);
+
+}
+.buttonDelete{
+    background-color: brown;
+}
+//# é para id em caso especifico
+//"." são para classes
